@@ -1,4 +1,4 @@
-Uterine rupture is an obstetric emergency with high maternal-fetal morbidity and mortality.
+## Uterine rupture is an obstetric emergency with high maternal-fetal morbidity and mortality.
 Our general objective was to study the risk factors of uterine rupture in two hospitals in the city of
 Douala. We conducted a case-control study in the gynecology and obstetrics departments of the
 Hôpital Général de Douala and the Hôpital Laquintinie de Douala. Our study population consisted
